@@ -1,4 +1,4 @@
-# Desafio-Dio-primeiro-repositrio
+# Desafio-Dio-primeiro-repositório
 Links úteis
 Git - https://git-scm.com
 Github - https://github.com/Andrea-Portilho
